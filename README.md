@@ -42,12 +42,18 @@ It follows object-oriented principles with multiple classes, an interface, and e
 
 ### Output ->
 
+<img width="477" height="802" alt="image" src="https://github.com/user-attachments/assets/cc53e9ee-eaf9-4de6-bdda-637852559858" />
 
-<img width="525" height="560" alt="image" src="https://github.com/user-attachments/assets/fc0139c0-d4e5-458c-9af8-41f67a2c341e" />
+<img width="367" height="768" alt="image" src="https://github.com/user-attachments/assets/c9abb01d-402d-4d83-8fc3-10f81b822837" />
 
-<img width="385" height="797" alt="image" src="https://github.com/user-attachments/assets/737ddc24-4f55-4541-af20-d1dc15e6954b" />
+<img width="402" height="802" alt="image" src="https://github.com/user-attachments/assets/18236a9d-d64d-450f-9861-34f97ea61ffb" />
 
-<img width="430" height="702" alt="image" src="https://github.com/user-attachments/assets/0631a6c7-67d8-4f10-b910-eaea2d0820cc" />
+<img width="386" height="810" alt="image" src="https://github.com/user-attachments/assets/7a538ca4-715c-480e-bd08-3b9d937892b7" />
 
-<img width="422" height="803" alt="image" src="https://github.com/user-attachments/assets/d91940ba-4203-49df-bf86-0e4fc143650e" />
-<img width="467" height="756" alt="image" src="https://github.com/user-attachments/assets/f9b50f40-45aa-4a76-bdfb-5d2b028b0331" />
+<img width="402" height="793" alt="image" src="https://github.com/user-attachments/assets/c0e300dd-f5eb-4243-b127-3a05702d24bc" />
+
+<img width="446" height="780" alt="image" src="https://github.com/user-attachments/assets/1c1e74ec-6f32-4986-a92a-6b35c58ac924" />
+
+<img width="442" height="772" alt="image" src="https://github.com/user-attachments/assets/e0dc2b5e-70ed-4ab3-9a1c-e574b3ffd4db" />
+
+<img width="442" height="412" alt="image" src="https://github.com/user-attachments/assets/a5bb8003-35cb-4958-bbb7-99b58c7fa67b" />
